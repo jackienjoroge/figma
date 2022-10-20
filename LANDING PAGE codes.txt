@@ -1,0 +1,107 @@
+<DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie= edge" />
+    <title> class web landing page</title>
+    <link rel="stylesheet" href="style.css" />
+    <head>
+    <body>
+
+        <div class="nav container">
+            <div class="wrapper">
+                <nav>
+                    <div class="logo">
+                        .
+                    </div>
+                    <ul class="nav-items">
+                        <li>
+                            <a href="#">class website</a>
+                        </li>
+
+                        <li>
+                        <a href="#">login</a>
+                    </li>
+
+                    <li>
+                        <a href="#">home,dashboard</a>
+                    </li>
+
+                    <li>
+                        <a class="nav-btn-container" href="#"></a>
+                        <img class="more-btn"src="images/more-btn" alt=""/>
+                    </a>
+                    </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="header-container">
+        <div class="wrapper">
+            <header>
+                <div class="hero-content">
+                    <h1>Notes      Grades        About us </h1>
+                </div>
+
+                <div class="hero-image">
+                    <img src="image/photo.png" alt="" />
+                    <div class="photo.bg"></div>
+                </div>
+            </header>
+
+            <a href="#">
+            Assignments
+        </a>
+
+        </div>
+        <a href="#">
+            teaching and exam timetables
+        </a>
+
+        </div>
+        <a href="#">
+            announcements
+        </a>
+
+        <div>
+            <a href="#">
+                contact us
+                </div>
+
+
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
